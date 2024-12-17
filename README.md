@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishavigi&label=Profile%20views&color=0e75b6&style=flat" alt="thrishavigi" /> </p>
 
+- 🎓 I’m currently studying at **Chennai Institute Of Technology - B.E CSE(AI & ML)**
+
+- 💬 Ask me about **DSA topics and OOPS**
+
+- 🔭 I’m currently working on **MERN projects and NEXT**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 🤔 I’m looking for help with **php and .net**
+
+- 📫 How to reach me: **thrishavijayakumar7@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thrisha vijayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thrisha vijayakumar" height="30" width="40" /></a>
